@@ -8,4 +8,4 @@ Usage:
 <%- urlEncode( url ) %>
 ```
 
-For more Informations about endoceURIComponent(): [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent)
+For more Informations about encodeURIComponent(): [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent)
