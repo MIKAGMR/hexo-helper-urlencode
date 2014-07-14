@@ -1,0 +1,19 @@
+{
+  "name": "hexo-helper-urlencode",
+  "version": "0.0.1",
+  "description": "Hexo helper for encoding urls in templates",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MIKAGMR/hexo-helper-urlencode.git"
+  },
+  "keywords": [
+    "hexo",
+    "helper"
+  ],
+  "author": "Michael Spreu",
+  "bugs": {
+    "url": "https://github.com/MIKAGMR/hexo-helper-urlencode/issues"
+  },
+  "homepage": "https://github.com/MIKAGMR/hexo-helper-urlencode"
+}
